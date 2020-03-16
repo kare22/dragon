@@ -1,0 +1,97 @@
+
+ul {
+    list-style: none;
+}
+
+li {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.container {
+    height: 100vh;
+}
+
+.box {
+    width: 100%;
+    border-radius: 25px;
+    background-color: rgba(255, 103, 41, 0.8);
+    color: #ffffff;
+}
+
+.box-button {
+    cursor: pointer;
+    border-radius: 25px;
+    background-color: rgba(255, 103, 4);
+    color: white;
+}
+
+.log-box ul {
+    /*margin-left: -12%;*/
+    height: 22vh;
+    /*overflow: hidden;*/
+}
+
+
+.product-box ul {
+    /*margin-left: -12%;*/
+    height: 63vh;
+}
+
+.product-box {
+    margin-bottom: 2vh;
+}
+
+.message-box {
+    height: 90vh;
+    /*margin-left: 2vh;*/
+    margin-bottom: 2vh;
+}
+
+.message-box ul {
+    margin-left: -3%;
+}
+
+.container {
+    border: 1px solid #000;
+    overflow-y: auto;
+    height: 100%;
+}
+
+.game {
+    align: center;
+    background-image: url("draggo3.jpg");
+    /*height: 100vh;*/
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.start {
+    align: center;
+    background-image: url("draggo3.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.start-row {
+    margin-top: 47vh;
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.main-wrapper {
+
+    /*align: center;*/
+    /*background-image: url("draggo2.jpg");*/
+    /*height: 100vh;*/
+    /*background-position: center;*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: cover;*/
+}
